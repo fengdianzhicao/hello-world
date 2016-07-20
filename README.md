@@ -1,4 +1,4 @@
 # hello-world
 This is a excise.
-Hi, everybody.
-Why didn't show.
+Hello, everybody.
+Why didn't show that many words.
